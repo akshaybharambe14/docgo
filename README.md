@@ -26,7 +26,7 @@ I made if for fun and it might help you. Enjoy!
 
 ## Why
 
-Sometimes, Go developers fail to mention official documentation URL for their repository. We have to manually go to [pkg.go.dev](pkg.go.dev) and search for that repository. This extension helps to go to the documentation right from where ypu are.
+Sometimes, Go developers fail to mention official documentation URL for their repository. We have to manually go to [pkg.go.dev](pkg.go.dev) and search for that repository. This extension helps to go to the documentation right from where you are.
 
 ## Contributing
 
