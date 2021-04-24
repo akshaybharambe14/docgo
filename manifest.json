@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "DOCGO",
+    "description": "Redirect from Go source code repositories(ex. Github) to official documentation",
+    "version": "1.0",
+    "action": {
+        "default_icon": "icons/icon500.png",
+        "default_popup": "docgo.html"
+    },
+    "icons": {
+        "16": "icons/icon16.png",
+        "48": "icons/icon48.png",
+        "128": "icons/icon128.png"
+    },
+    "permissions": [
+        "activeTab"
+    ]
+}
