@@ -14,7 +14,7 @@ I made if for fun and it might help you. Enjoy!
 
 ## How to use it
 
-1. Add the extension from [chrome wb store](https://chrome.google.com/webstore/detail/docgo/jllcbbemppedmpfjjeaoifdogcinmjpm) to your browser.
+1. Add the extension from [chrome web store](https://chrome.google.com/webstore/detail/docgo/jllcbbemppedmpfjjeaoifdogcinmjpm) to your browser.
 
 2. Head over to any Go package/module ex. [The Go repository](https://github.com/golang/go).
 
