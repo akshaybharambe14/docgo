@@ -7,10 +7,9 @@
 [![GitHub](https://img.shields.io/github/license/akshaybharambe14/docgo)](LICENSE)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-
-A browser extension 🧱 to redirect from Go source code repositories to official go documentation 📄.
-
 I made if for fun and it might help you. Enjoy!
+
+![Click "Go" to get redirected](./images/banner.png)
 
 ## How to use it
 
@@ -18,9 +17,9 @@ I made if for fun and it might help you. Enjoy!
 
 2. Head over to any Go package/module ex. [The Go repository](https://github.com/golang/go).
 
-3. Click on the extension and Go! 
-   
-   ![Click "Go" to get redirected](./images/example.png)
+3. Click on the extension and Go!
+
+   ![Click "Go" to get redirected](./images/example.gif)
 
 **Pro tip:** You can pin the extension.
 
@@ -33,4 +32,5 @@ Sometimes, Go developers fail to mention official documentation URL for their re
 If you have any idea, feel free to open an issue.
 
 ## Thank You!
+
 If you like it, please rate it on chrome store and keep coding!
